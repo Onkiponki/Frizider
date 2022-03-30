@@ -1,0 +1,10 @@
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\bin\Debug\Frizider.exe.config
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\bin\Debug\Frizider.exe
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\bin\Debug\Frizider.pdb
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.csproj.AssemblyReference.cache
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.Form1.resources
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.Properties.Resources.resources
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.csproj.GenerateResource.cache
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.csproj.CoreCompileInputs.cache
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.exe
+D:\1Pavle Back-up\1PavleSkolskiRad\Paradigme\Frizider\.vs\Frizider\v16\Frizider\obj\Debug\Frizider.pdb
