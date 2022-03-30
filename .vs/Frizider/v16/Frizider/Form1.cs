@@ -19,7 +19,9 @@ namespace Frizider
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("let 
+            MessageBox.Show("let d hh fgh fghfg fg fghfgh fg");
+            Console.Beep();
+            MessageBox.Show("??????????????????????????????");
         }
     }
 }
