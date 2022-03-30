@@ -40,8 +40,14 @@ namespace Frizider
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string kategorija = textBox2.Text;
-            string proizvodjac = textBox1.Text; 
+            string kategorija = textBox2.Text.ToLower();
+            string proizvodjac = textBox1.Text.ToLower();
+            string naredba = $"select * from pogled where lower(Proizvodjac) like '%{proizvodjac}%' AND lower(Kategorija) like '%{kategorija}%';";
+            adapter = new SqlDataAdapter(naredba, veza);
+            podaci.Clear();
+            podaci = new DataTable();
+            adapter.Fill(podaci);
+            dataGridView1.DataSource = podaci;
         }
     }
 }
