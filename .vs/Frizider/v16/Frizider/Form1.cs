@@ -19,7 +19,7 @@ namespace Frizider
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.Beep();
+            MessageBox.Show("let 
         }
     }
 }
