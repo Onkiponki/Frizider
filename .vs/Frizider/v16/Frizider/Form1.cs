@@ -37,5 +37,11 @@ namespace Frizider
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string kategorija = textBox2.Text;
+            string proizvodjac = textBox1.Text; 
+        }
     }
 }
